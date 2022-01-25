@@ -1,6 +1,6 @@
 # flutter_camera
 
-A new Flutter project.
+A new Flutter camera website project.
 
 ## Getting Started
 
