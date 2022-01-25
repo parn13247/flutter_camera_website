@@ -1,8 +1,8 @@
 import 'package:camera/camera.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_camera/camera_example.dart';
-import 'package:flutter_camera/screen2/camera_home_screen.dart';
+import 'package:flutter_camera_website/camera_example.dart';
+import 'package:flutter_camera_website/screen2/camera_home_screen.dart';
 import 'package:image_picker_gallery_camera/image_picker_gallery_camera.dart';
 
 import 'camera_app.dart';

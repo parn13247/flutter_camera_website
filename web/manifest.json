@@ -1,6 +1,6 @@
 {
-    "name": "flutter_camera",
-    "short_name": "flutter_camera",
+    "name": "flutter_camera_website",
+    "short_name": "flutter_camera_website",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
